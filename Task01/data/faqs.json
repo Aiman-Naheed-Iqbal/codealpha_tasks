@@ -1,0 +1,102 @@
+[
+  {
+    "question": "what is your name",
+    "answer": "I am an AI chatbot built using Streamlit and NLP techniques."
+  },
+  {
+    "question": "how do you work",
+    "answer": "I process your input, clean the text, and use TF-IDF with cosine similarity to find the best matching answer."
+  },
+  {
+    "question": "what can you do",
+    "answer": "I can answer predefined questions, assist with basic queries, and demonstrate a chatbot system."
+  },
+  {
+    "question": "who created you",
+    "answer": "I was created as a chatbot project using Python, Streamlit, and machine learning techniques."
+  },
+  {
+    "question": "what technologies are used",
+    "answer": "This chatbot uses Python, Streamlit, scikit-learn, and NLP techniques like TF-IDF and cosine similarity."
+  },
+  {
+    "question": "what is streamlit",
+    "answer": "Streamlit is a Python framework used to build interactive web apps quickly, especially for data science and AI projects."
+  },
+  {
+    "question": "what is tfidf",
+    "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It helps measure how important a word is in a document."
+  },
+  {
+    "question": "what is cosine similarity",
+    "answer": "Cosine similarity measures how similar two pieces of text are based on vector representation."
+  },
+  {
+    "question": "can you learn new things",
+    "answer": "Currently, I can only respond based on predefined data. I do not learn automatically."
+  },
+  {
+    "question": "how can i improve this chatbot",
+    "answer": "You can improve it by adding more data, using deep learning models, or integrating APIs like OpenAI."
+  },
+  {
+    "question": "is this chatbot using ai",
+    "answer": "Yes, it uses basic AI techniques like natural language processing and similarity matching."
+  },
+  {
+    "question": "can you answer any question",
+    "answer": "No, I can only answer questions that are similar to the ones in my dataset."
+  },
+  {
+    "question": "what is machine learning",
+    "answer": "Machine learning is a field of AI that allows systems to learn patterns from data and make predictions."
+  },
+  {
+    "question": "what is natural language processing",
+    "answer": "Natural Language Processing, or NLP, helps computers understand and process human language."
+  },
+  {
+    "question": "what programming language are you built in",
+    "answer": "I am built using Python."
+  },
+  {
+    "question": "how to run this project",
+    "answer": "Install the requirements and run the command: streamlit run ui/app_ui.py"
+  },
+  {
+    "question": "what is your purpose",
+    "answer": "My purpose is to demonstrate a simple chatbot system using NLP techniques."
+  },
+  {
+    "question": "can i deploy this chatbot",
+    "answer": "Yes, you can deploy it using platforms like Streamlit Cloud, Render, or Heroku."
+  },
+  {
+    "question": "what is python",
+    "answer": "Python is a popular programming language known for its simplicity and wide use in AI and data science."
+  },
+  {
+    "question": "how do i add more questions",
+    "answer": "You can add more question-answer pairs in the faqs.json file."
+  },
+  {
+    "question": "what happens if you dont understand",
+    "answer": "If I cannot find a similar question, I will ask you to rephrase your query."
+  },
+  {
+    "question": "are you intelligent",
+    "answer": "I use basic AI techniques, but I am not as intelligent as advanced AI systems like large language models."
+  },
+  {
+    "question": "can you chat like humans",
+    "answer": "I try to simulate human conversation, but I am limited to predefined responses."
+  },
+  {
+    "question": "what is your limitation",
+    "answer": "My limitation is that I rely on predefined data and cannot understand complex or unseen queries."
+  },
+  {
+    "question": "can i connect database",
+    "answer": "Yes, you can connect a database like SQLite or MongoDB to store and retrieve data."
+  }
+]
